@@ -6,7 +6,7 @@ const LoginPage = (props) => {
 	const onClicked = () => {
 		setUsia(usia+1);
 
-		console.log("sudah diklik");
+		console.log("sudah diklisk");
 	}
 	console.log(props);
 
