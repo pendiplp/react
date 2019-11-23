@@ -11,9 +11,8 @@ const LoginPage = (props) => {
 	console.log(props);
 
 	return <div>
-	<div>nama saya: {props.name}</div>
-	<div>usia saya {usia}</div>
-	<button onClick={onClicked}>KLIK</button>
+	<div>Hello Bojonegoro Linux User!</div>
+	<div>Salam kenal :) perkenalkan nama saya <button onClick={onClicked}>fendy</button></div>
 	</div>
 }
 
